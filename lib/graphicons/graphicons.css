@@ -1,0 +1,18 @@
+.graphicon-chart {
+	display:inline-block;
+	width:24px;
+	height:24px;
+	background: url("img/glyphicons_040_stats.png");
+}
+.graphicon-grid {
+	display:inline-block;
+	width:24px;
+	height:24px;
+	background: url("img/glyphicons_119_table.png");
+}
+.graphicon-map {
+	display:inline-block;
+	width:24px;
+	height:24px;
+	background: url("img/glyphicons_370_globe_af.png");
+}
